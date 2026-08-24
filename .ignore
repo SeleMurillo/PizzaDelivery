@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.pdb
+*.dbmdl
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.swp
+*.swo
+
+# Paquetes
+packages/
+*.nupkg
+
+# Entornos
+.env
+appsettings.Development.json
