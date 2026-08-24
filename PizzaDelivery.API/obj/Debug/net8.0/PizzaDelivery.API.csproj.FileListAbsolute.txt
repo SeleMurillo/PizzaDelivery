@@ -1,0 +1,7 @@
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.API\obj\Debug\net8.0\PizzaDelivery.API.csproj.AssemblyReference.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.API\obj\Debug\net8.0\PizzaDelivery.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.API\obj\Debug\net8.0\PizzaDelivery.API.AssemblyInfoInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.API\obj\Debug\net8.0\PizzaDelivery.API.AssemblyInfo.cs
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.API\obj\Debug\net8.0\PizzaDelivery.API.csproj.CoreCompileInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.API\obj\Debug\net8.0\PizzaDelivery.API.MvcApplicationPartsAssemblyInfo.cache

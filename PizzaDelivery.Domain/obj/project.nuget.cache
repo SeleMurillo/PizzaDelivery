@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfF5dY+tsXw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Domain\\PizzaDelivery.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scmg4\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\scmg4\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\scmg4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

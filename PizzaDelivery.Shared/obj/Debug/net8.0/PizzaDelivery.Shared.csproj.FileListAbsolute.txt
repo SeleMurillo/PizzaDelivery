@@ -1,0 +1,11 @@
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\bin\Debug\net8.0\PizzaDelivery.Shared.deps.json
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\bin\Debug\net8.0\PizzaDelivery.Shared.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\bin\Debug\net8.0\PizzaDelivery.Shared.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\PizzaDelivery.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\PizzaDelivery.Shared.AssemblyInfoInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\PizzaDelivery.Shared.AssemblyInfo.cs
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\PizzaDelivery.Shared.csproj.CoreCompileInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\PizzaDelivery.Shared.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\refint\PizzaDelivery.Shared.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\PizzaDelivery.Shared.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Shared\obj\Debug\net8.0\ref\PizzaDelivery.Shared.dll

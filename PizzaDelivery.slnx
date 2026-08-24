@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PizzaDelivery.API/PizzaDelivery.API.csproj" />
+  <Project Path="PizzaDelivery.Application/PizzaDelivery.Application.csproj" />
+  <Project Path="PizzaDelivery.Domain/PizzaDelivery.Domain.csproj" />
+  <Project Path="PizzaDelivery.Infrastructure/PizzaDelivery.Infrastructure.csproj" />
+  <Project Path="PizzaDelivery.Shared/PizzaDelivery.Shared.csproj" />
+</Solution>

@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: pizzadelivery-sql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword123!
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    networks:
+      - pizzadelivery-network
+
+  redis:
+    image: redis:alpine
+    container_name: pizzadelivery-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    command: redis-server --appendonly yes
+    networks:
+      - pizzadelivery-network
+
+  azurite:  # Emulador de Azure Storage para desarrollo local
+    image: mcr.microsoft.com/azure-storage/azurite
+    container_name: pizzadelivery-azurite
+    ports:
+      - "10000:10000"  # Blob
+      - "10001:10001"  # Queue
+      - "10002:10002"  # Table
+    volumes:
+      - azurite-data:/data
+    networks:
+      - pizzadelivery-network
+
+networks:
+  pizzadelivery-network:
+    driver: bridge
+
+volumes:
+  sqlserver-data:
+  redis-data:
+  azurite-data:

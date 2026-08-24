@@ -1,0 +1,17 @@
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\bin\Debug\net8.0\PizzaDelivery.Application.deps.json
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\bin\Debug\net8.0\PizzaDelivery.Application.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\bin\Debug\net8.0\PizzaDelivery.Application.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\bin\Debug\net8.0\PizzaDelivery.Domain.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\bin\Debug\net8.0\PizzaDelivery.Shared.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\bin\Debug\net8.0\PizzaDelivery.Domain.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\bin\Debug\net8.0\PizzaDelivery.Shared.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDelivery.Application.csproj.AssemblyReference.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDelivery.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDelivery.Application.AssemblyInfoInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDelivery.Application.AssemblyInfo.cs
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDelivery.Application.csproj.CoreCompileInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDel.681D1130.Up2Date
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDelivery.Application.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\refint\PizzaDelivery.Application.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\PizzaDelivery.Application.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Application\obj\Debug\net8.0\ref\PizzaDelivery.Application.dll

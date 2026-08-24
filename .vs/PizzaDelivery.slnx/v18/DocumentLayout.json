@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|solutionrelative:pizzadelivery.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.application\\pedidos\\commands\\confirmarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|solutionrelative:pizzadelivery.application\\pedidos\\commands\\confirmarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.api\\controllers\\v1\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|solutionrelative:pizzadelivery.api\\controllers\\v1\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|solutionrelative:pizzadelivery.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|solutionrelative:pizzadelivery.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|solutionrelative:pizzadelivery.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.application\\pedidos\\queries\\getpedidospaginadosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|solutionrelative:pizzadelivery.application\\pedidos\\queries\\getpedidospaginadosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.api\\pizzadelivery.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD710575-620B-E90A-B0D0-E4A948E04DB6}|PizzaDelivery.API\\PizzaDelivery.API.csproj|solutionrelative:pizzadelivery.api\\pizzadelivery.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.application\\pedidos\\commands\\crearpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|solutionrelative:pizzadelivery.application\\pedidos\\commands\\crearpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.application\\pizzadelivery.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|solutionrelative:pizzadelivery.application\\pizzadelivery.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.infrastructure\\pizzadelivery.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|solutionrelative:pizzadelivery.infrastructure\\pizzadelivery.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.application\\pedidos\\queries\\getpedidoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|solutionrelative:pizzadelivery.application\\pedidos\\queries\\getpedidoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|solutionrelative:pizzadelivery.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.application\\common\\interfaces\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F457ED-4591-6279-BA5A-8071D254C8F2}|PizzaDelivery.Application\\PizzaDelivery.Application.csproj|solutionrelative:pizzadelivery.application\\common\\interfaces\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71C7BB0-F15A-B92A-8FD4-EB9238D0D0EB}|PizzaDelivery.Domain\\PizzaDelivery.Domain.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.domain\\entities\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71C7BB0-F15A-B92A-8FD4-EB9238D0D0EB}|PizzaDelivery.Domain\\PizzaDelivery.Domain.csproj|solutionrelative:pizzadelivery.domain\\entities\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|c:\\users\\scmg4\\source\\pizzadeliverysystem\\pizzadelivery.infrastructure\\services\\servicebuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FE39B-719A-D9E0-7FA2-7064685E8FAB}|PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj|solutionrelative:pizzadelivery.infrastructure\\services\\servicebuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 742,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 742,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\Controllers\\V1\\PedidosController.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.API\\Controllers\\V1\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\Controllers\\V1\\PedidosController.cs",
+              "RelativeToolTip": "PizzaDelivery.API\\Controllers\\V1\\PedidosController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T20:57:24.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzaDelivery.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\appsettings.json",
+              "RelativeToolTip": "PizzaDelivery.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-30T18:27:37.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PizzaDelivery.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\appsettings.Development.json",
+              "RelativeToolTip": "PizzaDelivery.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-30T18:26:58.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "PizzaDelivery.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:25:04.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPedidosPaginadosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidosPaginadosQuery.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidosPaginadosQuery.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidosPaginadosQuery.cs",
+              "RelativeToolTip": "PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidosPaginadosQuery.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:23:40.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmarPedidoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Commands\\ConfirmarPedidoCommand.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Application\\Pedidos\\Commands\\ConfirmarPedidoCommand.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Commands\\ConfirmarPedidoCommand.cs",
+              "RelativeToolTip": "PizzaDelivery.Application\\Pedidos\\Commands\\ConfirmarPedidoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:23:26.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaDelivery.API.csproj",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\PizzaDelivery.API.csproj",
+              "RelativeDocumentMoniker": "PizzaDelivery.API\\PizzaDelivery.API.csproj",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\PizzaDelivery.API.csproj",
+              "RelativeToolTip": "PizzaDelivery.API\\PizzaDelivery.API.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-30T18:14:04.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearPedidoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Commands\\CrearPedidoCommand.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Application\\Pedidos\\Commands\\CrearPedidoCommand.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Commands\\CrearPedidoCommand.cs",
+              "RelativeToolTip": "PizzaDelivery.Application\\Pedidos\\Commands\\CrearPedidoCommand.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:16:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PizzaDelivery.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\PizzaDelivery.Application.csproj",
+              "RelativeDocumentMoniker": "PizzaDelivery.Application\\PizzaDelivery.Application.csproj",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\PizzaDelivery.Application.csproj",
+              "RelativeToolTip": "PizzaDelivery.Application\\PizzaDelivery.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-30T18:05:33.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PizzaDelivery.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj",
+              "RelativeToolTip": "PizzaDelivery.Infrastructure\\PizzaDelivery.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T18:09:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PizzaDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:06:57.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceBusPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\Services\\ServiceBusPublisher.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Infrastructure\\Services\\ServiceBusPublisher.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Infrastructure\\Services\\ServiceBusPublisher.cs",
+              "RelativeToolTip": "PizzaDelivery.Infrastructure\\Services\\ServiceBusPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:30:14.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Common\\Interfaces\\IEventPublisher.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Application\\Common\\Interfaces\\IEventPublisher.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Common\\Interfaces\\IEventPublisher.cs",
+              "RelativeToolTip": "PizzaDelivery.Application\\Common\\Interfaces\\IEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:29:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Domain\\Entities\\Pedidos.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Domain\\Entities\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Domain\\Entities\\Pedidos.cs",
+              "RelativeToolTip": "PizzaDelivery.Domain\\Entities\\Pedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T15:39:31.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetPedidoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidoQuery.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidoQuery.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidoQuery.cs",
+              "RelativeToolTip": "PizzaDelivery.Application\\Pedidos\\Queries\\GetPedidoQuery.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:54:33.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery.API\\Program.cs",
+              "ToolTip": "C:\\Users\\scmg4\\source\\PizzaDeliverySystem\\PizzaDelivery.API\\Program.cs",
+              "RelativeToolTip": "PizzaDelivery.API\\Program.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAD4vykBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:25:41.137Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 742,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

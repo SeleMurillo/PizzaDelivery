@@ -1,0 +1,12 @@
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\bin\Debug\net8.0\PizzaDelivery.Domain.deps.json
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\bin\Debug\net8.0\PizzaDelivery.Domain.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\bin\Debug\net8.0\PizzaDelivery.Domain.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\PizzaDelivery.Domain.csproj.AssemblyReference.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\PizzaDelivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\PizzaDelivery.Domain.AssemblyInfoInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\PizzaDelivery.Domain.AssemblyInfo.cs
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\PizzaDelivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\PizzaDelivery.Domain.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\refint\PizzaDelivery.Domain.dll
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\PizzaDelivery.Domain.pdb
+C:\Users\scmg4\source\PizzaDeliverySystem\PizzaDelivery.Domain\obj\Debug\net8.0\ref\PizzaDelivery.Domain.dll
